@@ -1,0 +1,405 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos",
+      "surnames": "charli",
+      "title": "Senior DevOps Engineer",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c90579d8-9c46-46cd-ba14-25c517a80860_t119o.png"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/cgarciaarano"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/cgarciaarano"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "SublimeText"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Spectrum"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Zooplus",
+          "image": {
+            "alt": "Zooplus",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/db1f122b-0b00-4e18-ae6b-593e94383d92_8ed3f4f5fd6bf4e11691.png"
+          },
+          "URL": "http://www.zooplus.de"
+        },
+        "roles": [
+          {
+            "name": "Senior DevOps Engineer",
+            "startDate": "2017-08-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "InfluxDB",
+                "type": "technology"
+              },
+              {
+                "name": "memcached",
+                "type": "technology"
+              },
+              {
+                "name": "mesos",
+                "type": "technology"
+              },
+              {
+                "name": "sensu",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zooplus",
+          "image": {
+            "alt": "Zooplus",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/7b1c4ba5-ab91-4562-af67-0f159fb8c366_xqahc.png"
+          },
+          "URL": "http://www.zooplus.de"
+        },
+        "roles": [
+          {
+            "name": "Senior DevOps Engineer & Team Lead",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stonework Solutions",
+          "image": {
+            "alt": "Stonework Solutions",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/71a84647-deb2-475e-a27a-5bcd62b08c5b_ahj0a.png"
+          },
+          "URL": "http://www.stoneworksolutions.net"
+        },
+        "roles": [
+          {
+            "name": "Operations Lead",
+            "startDate": "2010-01-01",
+            "finishDate": "2017-08-31",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Asterisk",
+                "type": "technology"
+              },
+              {
+                "name": "fabric",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GMV",
+          "image": {
+            "alt": "GMV",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/cf1f1ff5-b8c5-47ed-9a06-89f885fa13c0_03a74769a767cdbdda71.jpg"
+          },
+          "URL": "http://www.gmv.com/es"
+        },
+        "roles": [
+          {
+            "name": "Security consultant",
+            "startDate": "2006-11-01",
+            "finishDate": "2010-11-30",
+            "challenges": [
+              {
+                "description": "Development of IT Security and communications infrastructure projects.\n\nInformation Security consultancy and auditing.\n\nTesting and homologation of security solutions."
+              }
+            ],
+            "competences": [
+              {
+                "name": "firewall",
+                "type": "technology"
+              },
+              {
+                "name": "audit",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 20% at Stack Overflow answers",
+          "description": "This user is part of the top 20% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "docker-compose",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Solutions Architect",
+        "startDate": "2017-05-01",
+        "finishDate": "2017-05-01",
+        "institution": {
+          "name": "AWS Certified Solutions Architect"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CISSP",
+        "startDate": "2010-10-01",
+        "finishDate": "2011-10-31",
+        "institution": {
+          "name": "CISSP",
+          "URL": "https://www.isc2.org/cissp/default.aspx"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ITIL v3 Foundation",
+        "startDate": "2011-03-01",
+        "finishDate": "2011-03-01",
+        "institution": {
+          "name": "ITIL v3 Foundation",
+          "URL": "https://www.axelos.com/certifications/itil-certifications/itil-foundation-level"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Computer Science",
+        "startDate": "2000-10-01",
+        "finishDate": "2007-02-28",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "URL": "https://www.ucm.es/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "Grid",
+            "type": "technology"
+          },
+          {
+            "name": "zigbee",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "devops",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "backend",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
