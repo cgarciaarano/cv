@@ -9,6 +9,7 @@
       "name": "Carlos",
       "surnames": "charli",
       "title": "Senior DevOps Engineer",
+      "description": "",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c90579d8-9c46-46cd-ba14-25c517a80860_t119o.png"
@@ -356,19 +357,11 @@
           "type": "technology"
         },
         {
-          "name": "devops",
-          "type": "technology"
-        },
-        {
           "name": "Linux",
           "type": "technology"
         },
         {
           "name": "Docker",
-          "type": "technology"
-        },
-        {
-          "name": "backend",
           "type": "technology"
         },
         {
